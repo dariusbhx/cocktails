@@ -9,3 +9,7 @@
 "build": "CI= react-scripts build",
 
 ```
+
+link to deployed project: https://heuristic-fermat-af3e63.netlify.app/
+
+
